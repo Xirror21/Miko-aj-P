@@ -1,0 +1,40 @@
+body
+{
+	background-image:url("photos/BACK23.jpg");
+	background-attachment:center;
+	font-size:20px;
+	color:#495057;
+	size:auto;
+	allign:center;
+	text-shadow:black;:!important!;
+	
+}
+
+h1
+{
+	font-size:40px;
+	color:!important;
+}
+
+h2
+{
+	font-size:20px;
+	color:
+}
+/*Nieodwiedzony link*/
+a:link
+{
+	color:#212529;
+}
+
+/*odwiedzony link*/
+a:visited
+{
+	color:#343A40;
+}
+
+/*link po najechaniu kursorem*/
+a:hover !important
+{
+	color:#6B705C;
+}
